@@ -1,0 +1,15 @@
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/february_19/project/Calculator/Calculator/obj/Debug/net8.0/ref/Calculator.dll
