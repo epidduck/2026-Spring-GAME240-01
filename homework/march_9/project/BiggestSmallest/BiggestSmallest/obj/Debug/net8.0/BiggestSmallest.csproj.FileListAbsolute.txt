@@ -1,0 +1,15 @@
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/bin/Debug/net8.0/BiggestSmallest
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/bin/Debug/net8.0/BiggestSmallest.deps.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/bin/Debug/net8.0/BiggestSmallest.runtimeconfig.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/bin/Debug/net8.0/BiggestSmallest.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/bin/Debug/net8.0/BiggestSmallest.pdb
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/BiggestSmallest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/BiggestSmallest.AssemblyInfoInputs.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/BiggestSmallest.AssemblyInfo.cs
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/BiggestSmallest.csproj.CoreCompileInputs.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/BiggestSmallest.sourcelink.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/BiggestSmallest.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/refint/BiggestSmallest.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/BiggestSmallest.pdb
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/BiggestSmallest.genruntimeconfig.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/march_9/project/BiggestSmallest/BiggestSmallest/obj/Debug/net8.0/ref/BiggestSmallest.dll
