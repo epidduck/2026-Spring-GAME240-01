@@ -1,4 +1,4 @@
-﻿
+﻿  
 Console.Write("This calculator can perform 5 operations: ");
 Console.Write("addition (+), subtraction (-), multiplication (-), ");
 Console.WriteLine("division (/), and modulus (%).");
