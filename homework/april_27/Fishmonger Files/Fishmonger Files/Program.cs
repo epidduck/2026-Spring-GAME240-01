@@ -119,11 +119,10 @@ Console.WriteLine("Total fish caught: " + sum);
 
 
 
-/*
+
 using (StreamWriter resultFile = new StreamWriter(resultPath))
 {
     resultFile.WriteLine("Today's special is " + specialFish);
     resultFile.WriteLine("Total " + specialFish + " caught: " + specialSum);
     resultFile.WriteLine("Total fish caught: " + sum);
 }
-*/

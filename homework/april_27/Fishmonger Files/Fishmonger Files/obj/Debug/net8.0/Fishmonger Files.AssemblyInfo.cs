@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fishmonger Files")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2c7f17c8de8cc2b25d37ef668ad7ad528cdc643")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea81bcc860a7ced458d57deee3138acd414d6bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fishmonger Files")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fishmonger Files")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
