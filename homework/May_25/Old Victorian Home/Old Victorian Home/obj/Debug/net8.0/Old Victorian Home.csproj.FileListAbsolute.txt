@@ -1,0 +1,15 @@
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/bin/Debug/net8.0/Old Victorian Home
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/bin/Debug/net8.0/Old Victorian Home.deps.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/bin/Debug/net8.0/Old Victorian Home.runtimeconfig.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/bin/Debug/net8.0/Old Victorian Home.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/bin/Debug/net8.0/Old Victorian Home.pdb
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/Old Victorian Home.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/Old Victorian Home.AssemblyInfoInputs.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/Old Victorian Home.AssemblyInfo.cs
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/Old Victorian Home.csproj.CoreCompileInputs.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/Old Victorian Home.sourcelink.json
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/Old Victorian Home.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/refint/Old Victorian Home.dll
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/Old Victorian Home.pdb
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/Old Victorian Home.genruntimeconfig.cache
+/Users/elliepidduck/Documents/2026-Spring-GAME240-01/homework/May_25/Old Victorian Home/Old Victorian Home/obj/Debug/net8.0/ref/Old Victorian Home.dll
